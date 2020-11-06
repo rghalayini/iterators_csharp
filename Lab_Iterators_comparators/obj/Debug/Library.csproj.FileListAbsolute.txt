@@ -1,0 +1,7 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Iterators_comparators\Lab_Iterators_comparators\bin\Debug\Lab_Iterators_comparators.exe.config
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Iterators_comparators\Lab_Iterators_comparators\bin\Debug\Lab_Iterators_comparators.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Iterators_comparators\Lab_Iterators_comparators\bin\Debug\Lab_Iterators_comparators.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Iterators_comparators\Lab_Iterators_comparators\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Iterators_comparators\Lab_Iterators_comparators\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Iterators_comparators\Lab_Iterators_comparators\obj\Debug\Lab_Iterators_comparators.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Iterators_comparators\Lab_Iterators_comparators\obj\Debug\Lab_Iterators_comparators.pdb
